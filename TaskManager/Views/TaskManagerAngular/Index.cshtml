@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@section Scripts
+{
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-route.min.js"></script>
+    <script src="~/Scripts/app-tasks.js"></script>
+    <script src="~/Scripts/tasksController.js"></script>
+}
+
+<h1 class="text-center">My Todo List</h1>
+
+<div class="row" ng-app="app-tasks">
+    <div ng-view></div>
+</div>

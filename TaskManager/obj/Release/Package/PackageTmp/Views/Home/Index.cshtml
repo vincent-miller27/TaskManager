@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron text-center">
+    <h2>Task Manager Application</h2>
+    <h4>Please Choose A Version of the Application</h4> <br />
+
+    <a class="btn btn-danger btn-lg" href="@Url.Action("Index", "TaskManagerAngular")">Task Manager With AngularJS</a>
+
+    <a class="btn btn-info btn-lg" href="@Url.Action("Index", "TaskManagerMvc")">Task Manager With ASP.NET MVC</a>
+</div>

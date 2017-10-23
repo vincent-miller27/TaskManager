@@ -1,0 +1,80 @@
+﻿@model TaskManager.Models.TaskViewModel
+
+@{
+    string title = "";
+
+    if (Model.Id == 0)
+    {
+        title = "Create";
+    }
+    else
+    {
+        title = "Edit";
+    }
+
+    ViewBag.Title = $"{title} Task";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h2 class="text-center">@title @(Model.Id == 0 ? "New Task" : Model.Title)</h2>
+    </div>
+
+    <div class="panel-body">
+        @using (Html.BeginForm())
+        {
+
+            <div class="form-horizontal">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.Id)
+                @Html.HiddenFor(model => model.Status)
+
+                <div class="form-group">
+                    <p>@Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })</p>
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextAreaFor(model => model.Description, new { @class = "form-control" } )
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @if (Model.DueDate.Year != 0001)
+                    {
+                        @Html.LabelFor(model => model.DueDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(model => model.DueDate, "{0:yyyy-MM-dd}", new { @class = "form-control", @type = "date" })
+                        </div>
+                    }
+                    else
+                    {
+                        @Html.LabelFor(model => model.DueDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(model => model.DueDate, new { @class = "form-control", @type = "date" })
+                            @Html.ValidationMessageFor(model => model.DueDate, "", new { @class = "text-danger" })
+                        </div>
+                    }
+
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-1 col-md-10">
+                        <input type="submit" value="Save" class="btn btn-success" />
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="panel-footer">
+        <div>
+            <a class="btn btn-warning" href="@Url.Action("Index")"><i class="fa fa-arrow-left" aria-hidden="true"></i> Go Back</a>
+        </div>
+    </div>
+</div>

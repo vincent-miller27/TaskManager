@@ -1,0 +1,334 @@
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\ApplicationInsights.config
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\csc.exe
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\csc.exe.config
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\csc.rsp
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\csi.exe
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\csi.exe.config
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\csi.rsp
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.AppContext.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Console.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.Process.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.IO.Compression.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.IO.Pipes.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Security.AccessControl.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Security.Claims.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Threading.Thread.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.ValueTuple.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Xml.XPath.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\vbc.exe
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\vbc.exe.config
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\vbc.rsp
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\TaskManager.dll.config
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\TaskManager.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\TaskManager.pdb
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Antlr3.Runtime.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\EntityFramework.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\EntityFramework.SqlServer.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.Web.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Newtonsoft.Json.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.Helpers.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.Mvc.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.Optimization.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.Razor.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.WebPages.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\WebGrease.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\EntityFramework.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\EntityFramework.SqlServer.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.Helpers.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.Mvc.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.Optimization.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.Razor.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.WebPages.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Antlr3.Runtime.pdb
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Newtonsoft.Json.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\bin\Microsoft.AI.Web.xml
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\obj\Debug\TaskManager.dll
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.Initial.resources
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\_No Backup\Visual Studio 2017\Tests\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.AddCategoryColor.resources
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\ApplicationInsights.config
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\csc.exe
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\csc.exe.config
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\csc.rsp
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\csi.exe
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\csi.exe.config
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\csi.rsp
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.AppContext.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Console.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.Process.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.IO.Compression.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.IO.Pipes.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Security.AccessControl.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Security.Claims.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Threading.Thread.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.ValueTuple.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Xml.XPath.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\vbc.exe
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\vbc.exe.config
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\vbc.rsp
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\TaskManager.dll.config
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\TaskManager.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\TaskManager.pdb
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Antlr3.Runtime.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\EntityFramework.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\EntityFramework.SqlServer.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.Web.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Newtonsoft.Json.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Net.Http.Formatting.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Helpers.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Http.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Http.WebHost.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Mvc.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Optimization.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Razor.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.WebPages.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\WebGrease.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\EntityFramework.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\EntityFramework.SqlServer.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Net.Http.Formatting.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Http.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Http.WebHost.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Helpers.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Mvc.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Optimization.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.Razor.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.WebPages.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Antlr3.Runtime.pdb
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Newtonsoft.Json.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.AI.Web.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.Initial.resources
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.AddCategoryColor.resources
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.Practices.ServiceLocation.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.Practices.ServiceLocation.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.Practices.Unity.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Ninject.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Ninject.Web.Common.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Ninject.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Ninject.Web.Common.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Ninject.Web.Mvc.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\WebActivatorEx.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\Ninject.Web.Mvc.xml
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\bin\WebApiContrib.IoC.Ninject.dll
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.DeleteCategory.resources
+C:\_No Backup\Visual Studio 2017\Tests\Personal\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.AddTitle.resources
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\ApplicationInsights.config
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\csc.exe
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\csc.exe.config
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\csc.rsp
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\csi.exe
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\csi.exe.config
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\csi.rsp
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.AppContext.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Console.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Security.Claims.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\vbc.exe
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\vbc.exe.config
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\vbc.rsp
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\TaskManager.dll.config
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\TaskManager.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\TaskManager.pdb
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Antlr3.Runtime.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\EntityFramework.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.Web.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Ninject.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Ninject.Web.Common.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Ninject.Web.Mvc.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Helpers.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Http.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Mvc.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Optimization.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Razor.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.WebPages.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\WebActivatorEx.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\WebGrease.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\EntityFramework.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Ninject.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Ninject.Web.Common.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Ninject.Web.Mvc.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Http.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Helpers.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Mvc.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Optimization.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.Razor.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.WebPages.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Antlr3.Runtime.pdb
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\Microsoft.AI.Web.xml
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.Initial.resources
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.AddCategoryColor.resources
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.DeleteCategory.resources
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.Migrations.AddTitle.resources
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\AutoMapper.dll
+C:\Users\Frankie Jeney\Desktop\Project\TaskManager\TaskManager\bin\AutoMapper.xml
